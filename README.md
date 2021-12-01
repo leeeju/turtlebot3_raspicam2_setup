@@ -95,7 +95,7 @@ raspicam2 노드 토픽을 확인해보자
 $ ros2 topic list
 ```
 ## [raspicam2.launch.py](http://raspicam2.launch.py) 작성
-raspicam2 노드 실행을 좀더 간단히 실행할 수 있는 `[raspicam2.launch.py](http://raspicam2.launch.py)` 파일을 작성해보자.
+raspicam2 노드 실행을 좀더 간단히 실행할 수 있는 `raspicam2.launch.py` 파일을 작성해보자.
 다음 명령으로 raspicam2 패키지 폴더로 변경한다.
 ```bash
 cd ~/colcon_ws/src/raspicam2_node
@@ -108,7 +108,7 @@ mkdir launch && cd launch
 ```bash
 touch raspicam2.launch.py
 ```
-적당한 편집기를 이용하여 `[raspicam2.launch.py](http://raspicam2.launch.py)` 파일을 다음과 같이 편집, 저장한다. 
+적당한 편집기를 이용하여 `raspicam2.launch.py` 파일을 다음과 같이 편집, 저장한다. 
 ```python
 import os
 from ament_index_python.packages import get_package_share_directory
@@ -175,7 +175,7 @@ cd ~/colcon_ws
 ```bash
 colcon build --symlink-install && source ./install/local_setup.bash
 ```
-새로 추가한 `[raspicam2.launch.py](http://raspicam2.launch.py)` 를 실행하여 raspicam2 노드를 구동한다.
+새로 추가한 `raspicam2.launch.py` 를 실행하여 raspicam2 노드를 구동한다.
 ```bash
 ros2 launch raspicam2 raspicam2.launch.py
 ```
