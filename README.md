@@ -4,13 +4,12 @@
 **제공 :**  ground_Zero
 - https://github.com/greattoe
 
-**출처 :** 
-- [https://github.com/christianrauch/raspicam2_node.git](https://github.com/christianrauch/raspicam2_node.git)
-
 **참조:** 
 - https://jdu-stuff.tistory.com/50
 - https://askubuntu.com/questions/1130052/enable-i2c-on-raspberry-pi-ubuntu
-# 구성환경
+- [https://github.com/christianrauch/raspicam2_node.git](https://github.com/christianrauch/raspicam2_node.git)
+
+## 구성환경
 - RaspberryPi 4
 - Ubuntu Server 20.04
 
