@@ -1,7 +1,7 @@
 # turtlebot3_raspicam2_setup
 터틀봇3에 raspicam2 노드 설치하기
 
-**제공 :**  ground_Zero
+**도움 :**  ground_Zero
 - https://github.com/greattoe
 
 **참조:** 
