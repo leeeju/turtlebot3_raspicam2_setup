@@ -1,9 +1,6 @@
 # turtlebot3_raspicam2_setup
 터틀봇3에 raspicam2 노드 설치하기
 
-**도움 :**  ground_Zero
-- https://github.com/greattoe
-
 **참조:** 
 - https://jdu-stuff.tistory.com/50
 - https://askubuntu.com/questions/1130052/enable-i2c-on-raspberry-pi-ubuntu
