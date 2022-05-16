@@ -9,6 +9,7 @@
 ## 구성환경
 - RaspberryPi 4
 - Ubuntu Server 20.04
+- R.O.S : foxy
 
 1. 터틀봇3의 SBC(RaspberryPi)에 ssh 연결
 2. 라즈베리파이와 ssh 연결을 위해 `ssh ubuntu@<라즈베리파이의 IP 주소>` 를 실행한다. 
